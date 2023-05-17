@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>ระบบยืม - คืนอุปกรณ์กีฬา</title>
+<title>ระบบยืม - คืน อุปกรณ์กีฬา</title>
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <script language="javascript">
 function chk_login() {
@@ -29,7 +29,7 @@ function chk_login() {
           <td><div align="center">
             <p>&nbsp;</p>
             <p>&nbsp;</p>
-            <p><font size="+4" color="#33CCFF">ระบบยืม - คืนอุปกรณ์กีฬา</font><br />
+            <p><font size="+4" color="#33CCFF">ระบบยืม - คืนอุปกรณ์กีฬา <?=$Title?></font><br />
               <br />
               <font size="+1" color="#33CCFF"><?=$text_title?></font> <br />
               <br />
